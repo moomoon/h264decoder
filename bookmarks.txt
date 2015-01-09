@@ -5,3 +5,5 @@ http://stackoverflow.com/questions/22809352/android-how-to-encode-a-stream-of-im
 http://stackoverflow.com/questions/8986437/opengl-overlay-on-camera-view
 
 http://stackoverflow.com/questions/19574362/how-to-overlay-images-using-opengl-into-a-pixel-array
+
+http://stackoverflow.com/questions/4041682/android-opengl-es-framebuffer-objects-rendering-to-texture
